@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace ImageProcessingOptimizationLab;
+namespace GUI;
 
 public partial class MainWindow : Window
 {

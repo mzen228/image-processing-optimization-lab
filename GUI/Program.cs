@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace ImageProcessingOptimizationLab;
+namespace GUI;
 
 class Program
 {
