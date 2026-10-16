@@ -5,5 +5,8 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="ImageProcessingOptimizationLab.MainWindow"
         Title="ImageProcessingOptimizationLab">
-    Welcome to Avalonia!
+    <Button HorizontalAlignment="Center"
+            VerticalAlignment="Center">
+        Load Image
+    </Button>
 </Window>
